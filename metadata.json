@@ -1,0 +1,6 @@
+{
+  "name": "SAAN OPER SYSTEM",
+  "description": "نظام التشغيل والإدارة المالية وشؤون الموظفين لصيدلية المستقبل الفضي — إدارة دكتور SHAABAN EDRIS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
